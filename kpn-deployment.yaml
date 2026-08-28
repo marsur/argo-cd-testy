@@ -10,7 +10,7 @@ metadata:
   name: kpn
   namespace: hra2808
 spec:
-  replicas: 8
+  replicas: 2
   selector:
     matchLabels:
       app: kpn
